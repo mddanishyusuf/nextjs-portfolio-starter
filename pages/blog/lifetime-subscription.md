@@ -3,6 +3,7 @@ title: Lifetime Subscriptions
 date: 2020/10/02
 description: Experiment with Lifetime Subscription & made $20k in 48 hours
 author: Mohd Danish
+tag: life
 ---
 
 # Lifetime Subscriptions

@@ -3,6 +3,7 @@ title: Story — SaaS product
 date: 2020/8/19
 description: My first SAAS product after 10 MVP
 author: Mohd Danish
+tag: story
 ---
 
 # SAAS product

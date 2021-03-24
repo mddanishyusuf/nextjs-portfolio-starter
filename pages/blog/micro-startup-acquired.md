@@ -3,6 +3,7 @@ title: Micro Startup Acquired
 date: 2019/11/29
 description: My Bootstrapped Micro-Startup got acquired for $22k
 author: Mohd Danish
+tag: life
 ---
 
 # Micro Startup Acquired

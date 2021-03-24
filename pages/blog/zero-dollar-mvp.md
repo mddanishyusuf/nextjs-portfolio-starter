@@ -3,6 +3,7 @@ title: Zero dollar MVP
 date: 2019/5/16
 description: How I’m Building Products with Zero Dollars.
 author: Mohd Danish
+tag: tricks
 ---
 
 # Zero dollar MVPs

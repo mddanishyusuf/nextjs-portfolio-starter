@@ -3,6 +3,7 @@ title: Story — Ship on Producthunt
 date: 2019/4/16
 description: My experience of launching first Product on ProductHunt
 author: Mohd Danish
+tag: life
 ---
 
 # Story — Ship on Producthunt
