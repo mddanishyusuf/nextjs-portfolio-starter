@@ -11,7 +11,7 @@ class MyDocument extends Document {
       title: 'Mohd Danish — Full Stack Developer, Entrepreneur & Digital Nomad',
       description:
         'Mohd Danish is an Entrepreneur & building things for the Internet since 2012',
-      image: '/images/mddanishyusuf.png'
+      image: 'https://mohddanish.me/images/mddanishyusuf.png'
     }
 
     return (
